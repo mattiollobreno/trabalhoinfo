@@ -1,15 +1,15 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Linus Torvalds é o criador do Linux e do Git, fundamentais no software livre e no desenvolvimento de sistemas."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Doutorado honorário da Universidade de Estocolmo, em 1999, e outro da Universidade de Helsinque, em 2000"
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Linux (1991): Criador do kernel do sistema operacional, base de diversas distribuições como Ubuntu, Fedora e Android. Também foi criador do sistema de controle de versão usado por milhões de desenvolvedores para gerenciar código de forma eficiente e colaborativa, o Git."
     return mensagem
 
 

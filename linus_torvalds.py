@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "blablalalalalalzaslakfni"
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "dfbfjbajfbajfjkabjdfbajfbkjanfasfsaf"
     return mensagem
 
 
